@@ -1,5 +1,5 @@
 # Matplotlib-Homework
-
+The code is under the file "Final_Script.ipynb"
 ## Background
 
 The purpose of this homework is to analyze data from Pymaceuticals Inc. a burgeoning pharmaceutical company based out of San Diego that specializes in anti-cancer pharmaceuticals. The company has began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
